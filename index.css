@@ -13,6 +13,11 @@
     min-height: 280px; /* Prevent carousel from being distorted if for some reason image doesn't load */
 }
 
+.text{
+    color: white;
+    text-align: center;
+}
+
 /*footer*/
 footer {
     position: sticky;

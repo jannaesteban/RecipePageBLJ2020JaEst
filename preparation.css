@@ -1,4 +1,35 @@
 /* navbar */
-.navbar-dark{
-    background-color: #5595D1 >!important;
+.navbar-dark {
+    background-color: #5595d1;
+    box-shadow: #5595d1 0 0 5px;
+    border-radius: 3px;
+  }
+
+  .title{
+      text-align: center;
+      margin: 1em;
+  }
+  .img-fluid {
+    width: 100%;
+    box-shadow: black 0 0 5px;
+    border-radius: 5px;
+    margin-bottom: 1em;
+    text-align: center;
+  }
+  .text {
+      background-color:#5595D1;
+      margin-bottom: 1em;
+      box-shadow: #5595D1 0 0 5px;
+      border-radius: 10px;
+  }
+  /*footer*/
+footer {
+    position: sticky;
+    bottom: 0px;
+    width: 100%;
+    background: #5595d1;
+    color: #fff;
+    text-align: center;
+    box-shadow: #5595D1 0 0 5px;
+    border-radius: 10px;
   }

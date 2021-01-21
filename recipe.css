@@ -9,7 +9,7 @@
   margin-top: 3em;
   margin-bottom: 3em;
   box-shadow: black 0 0 5px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 /*footer*/
 footer {
@@ -22,11 +22,12 @@ footer {
   box-shadow: #5595D1 0 0 5px;
   border-radius: 3px;
 }
-.col-lg-5{
+.recipe{
+    text-align: center;
     width: 100%;
     margin-top: 3em;
     margin-bottom: 3em;
-    background-color:#5595d167;
-    box-shadow: #5595d1 0 0 5px;
-    border-radius: 3px;
+    background-color:#5595d138;
+    box-shadow: #5595d11f 0 0 5px;
+    border-radius: 10px;
 }
