@@ -3,6 +3,7 @@
   background-color: #5595d1;
   box-shadow: #5595d1 0 0 5px;
   border-radius: 3px;
+  position: sticky !important;
 }
 .img-fluid {
   width: 100%;
